@@ -1,0 +1,7 @@
+{
+  "name": "BukuKas Digital",
+  "description": "A comprehensive bookkeeping application featuring transaction management, role-based access, and an AI-powered financial assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
